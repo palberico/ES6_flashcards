@@ -1,0 +1,11 @@
+.container {
+    padding: 20px 0 20px 0
+}
+
+.col.s3 {
+    width: 200px;
+    height: 200px;
+    border: 5px solid blue; 
+    background-color: red;
+}
+
